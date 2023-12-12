@@ -31,7 +31,7 @@ You should have received a copy of the license along with this work. If not, see
 
 <!-- - 🔭 I’m currently working on [Progetto](https://github.com/eliaf2/PySerialRNG) -->
 
-- 🌱 I’m currently learning **Physics**, **Eletronics**, **Machine Learning** and **Data Analysis**
+- 🌱 I’m currently learning **Physics**, **Electronics**, **Machine Learning** and **Data Analysis**
 
 - 📫 How to reach me **132740244+eliaf2@users.noreply.github.com**
 
@@ -57,7 +57,7 @@ You should have received a copy of the license along with this work. If not, see
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliaf2&show_icons=true&locale=en&layout=compact" alt="eliaf2" /></p> -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliaf2&show_icons=true&locale=en&layout=compact" alt="eliaf2" /></p>
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliaf2&show_icons=true&locale=en" alt="eliaf2" /></p> -->
