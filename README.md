@@ -45,8 +45,13 @@ You should have received a copy of the license along with this work. If not, see
 <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://pypi.org/project/PySide6/" target="_blank" rel="noreferrer"> <img src="https://qt-wiki-uploads.s3.amazonaws.com/images/0/07/PySideLogo1.png" alt="pyside6" width="80" height="40"/> </a> 
+<a href="https://www.pyqtgraph.org/" target="_blank" rel="noreferrer"> <img src="https://pyqtgraph.readthedocs.io/en/latest/_static/peegee_02.svg" alt="pyqtgraph" width="40" height="40"/> </a> 
+<a href="https://pyserial.readthedocs.io/en/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://pyserial.readthedocs.io/en/latest/_static/pyserial.png" alt="pyserial" width="80" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.sympy.org/" target="_blank" rel="noreferrer"> <img src="https://www.sympy.org/static/images/logo.png" alt="python" width="40" height="40"/> </a> 
+
+<!--  -->
 
 <h3 align="left">Currently Learning:</h3>
 <p align="left"> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -62,4 +67,4 @@ You should have received a copy of the license along with this work. If not, see
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliaf2&show_icons=true&locale=en" alt="eliaf2" /></p> -->
 
-Last Edited on: 12/12/2023
+Last Edited on: 16/03/2024
