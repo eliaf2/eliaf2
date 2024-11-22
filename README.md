@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- 
-Copyright (C) 2023 Elia Falcioni
+Copyright (C) 2024 Elia Falcioni
 
 This file is licensed under a BSD 3-Clause.
 
@@ -31,7 +31,7 @@ You should have received a copy of the license along with this work. If not, see
 
 <!-- - 🔭 I’m currently working on [Progetto](https://github.com/eliaf2/PySerialRNG) -->
 
-- 🌱 I’m currently learning **Physics**, **Electronics**, **Machine Learning** and **Data Analysis**
+- 🌱 I’m currently learning **Physics**, **Electronics**, **Machine Learning** and **Quantum Computing**
 
 - 📫 How to reach me **132740244+eliaf2@users.noreply.github.com**
 
@@ -57,7 +57,7 @@ You should have received a copy of the license along with this work. If not, see
 <p align="left"> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>  
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+<a href="https://docs.quantum.ibm.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="qiskit" width="40" height="40"/> </a> 
 <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
@@ -67,4 +67,4 @@ You should have received a copy of the license along with this work. If not, see
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eliaf2&show_icons=true&locale=en" alt="eliaf2" /></p> -->
 
-Last Edited on: 16/03/2024
+Last Edited on: 22/11/2024
