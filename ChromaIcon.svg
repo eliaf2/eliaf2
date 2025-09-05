@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="256"
+   height="163.84"
+   viewBox="0 0 256 163.84"
+   version="1.1"
+   id="svg2"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <!-- Blue ellipse (left) -->
+  <ellipse
+     cx="85.333"
+     cy="81.919998"
+     rx="85.333"
+     ry="81.919998"
+     fill="#327eff"
+     id="ellipse1" />
+  <!-- Yellow ellipse (right) -->
+  <ellipse
+     cx="170.66701"
+     cy="81.919998"
+     rx="85.333"
+     ry="81.919998"
+     fill="#ffde2d"
+     id="ellipse2" />
+  <!-- Red overlap shape -->
+  <path
+     d="m 170.667,81.92 c 0,45.243 -38.206,81.92 -85.334,81.92 V 81.92 Z m -85.334,0 C 85.333,36.677 123.538,7.6293944e-8 170.667,7.6293944e-8 V 81.92 Z"
+     fill="#ff6446"
+     id="path2" />
+</svg>
