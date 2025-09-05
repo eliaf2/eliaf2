@@ -38,52 +38,33 @@ You should have received a copy of the license along with this work. If not, see
 
 ### Languages and Tools learned:
 
-<style>
-:root {
-  --icon-width: 80px;
-  --icon-height: 35px;
-  --icon-margin-horizontal: 2px;
-  --icon-margin-vertical: 4px;
-}
-
-.icon {
-  max-width: var(--icon-width);
-  max-height: var(--icon-height);
-  width: auto;
-  height: auto;
-  object-fit: contain;
-  margin: var(--icon-margin-vertical) var(--icon-margin-horizontal);
-}
-</style>
-
-
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" class="icon"> 
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" class="icon"> 
-<img src="ChromaIcon.svg" alt="Chroma" class="icon"> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" class="icon">
-<img src="LatexIcon.png" alt="LaTeX" class="icon">
-<img src="LangGraphIcon.svg" alt="LangGraph" class="icon">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" class="icon">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/2560px-Markdown-mark.svg.png" alt="Markdown" class="icon">
-<img src="https://matplotlib.org/_static/images/documentation.svg" alt="Matplotlib" class="icon">
-<img src="https://numpy.org/images/logo.svg" alt="NumPy" class="icon">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" class="icon"> 
-<img src="https://qt-wiki-uploads.s3.amazonaws.com/images/0/07/PySideLogo1.png" alt="PySide6" class="icon"> 
-<img src="https://pyqtgraph.readthedocs.io/en/latest/_static/peegee_02.svg" alt="PyQtGraph" class="icon"> 
-<img src="https://pyserial.readthedocs.io/en/latest/_static/pyserial.png" alt="PySerial" class="icon"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" class="icon"> 
-<img src="https://www.sympy.org/static/images/logo.png" alt="SymPy" class="icon">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" class="icon">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" class="icon"> 
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;"> 
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;"> 
+<img src="ChromaIcon.svg" alt="Chroma" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;">
+<img src="LatexIcon.png" alt="LaTeX" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;">
+<img src="LangGraphIcon.svg" alt="LangGraph" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/2560px-Markdown-mark.svg.png" alt="Markdown" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;">
+<img src="https://matplotlib.org/_static/images/documentation.svg" alt="Matplotlib" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;">
+<img src="https://numpy.org/images/logo.svg" alt="NumPy" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;"> 
+<img src="https://qt-wiki-uploads.s3.amazonaws.com/images/0/07/PySideLogo1.png" alt="PySide6" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;"> 
+<img src="https://pyqtgraph.readthedocs.io/en/latest/_static/peegee_02.svg" alt="PyQtGraph" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;"> 
+<img src="https://pyserial.readthedocs.io/en/latest/_static/pyserial.png" alt="PySerial" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;"> 
+<img src="https://www.sympy.org/static/images/logo.png" alt="SymPy" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;"> 
 
 ### Currently Learning:
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" class="icon">
-<img src="LangChainIcon.svg" alt="LangChain" class="icon">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" class="icon">  
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="Qiskit" class="icon"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" class="icon"> 
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" class="icon">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;"> 
+<img src="LangChainIcon.svg" alt="LangChain" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Qiskit-Logo.svg" alt="Qiskit" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;"> 
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" style="max-width: 80px; max-height: 35px; width: auto; height: auto; object-fit: contain; margin: 4px 2px;">
 
 ### GitHub Stats:
 
